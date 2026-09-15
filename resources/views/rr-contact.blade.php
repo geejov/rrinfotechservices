@@ -29,6 +29,8 @@
         .contact-card h2 { font-size: 32px; font-weight: 400; letter-spacing: -.04em; margin: 38px 0 15px; }
         .contact-card p { color: var(--muted); font-family: Arial, sans-serif; font-size: 14px; line-height: 1.7; margin: 0 0 25px; }
         .email-link { border-bottom: 1px solid var(--coral); color: var(--coral); font-family: Arial, sans-serif; font-size: 15px; padding-bottom: 5px; }
+        .address { color: var(--muted); font-family: Arial, sans-serif; font-size: 14px; line-height: 1.7; margin-top: 28px; }
+        .address strong { color: var(--ink); display: block; font-size: 11px; letter-spacing: .16em; margin-bottom: 7px; text-transform: uppercase; }
         .note { background: var(--lime); padding: 28px; transform: rotate(2deg); }
         .note strong { display: block; font-size: 35px; font-weight: 400; line-height: 1; margin-bottom: 24px; }
         .note p { color: var(--ink); margin: 0; }
@@ -65,7 +67,8 @@
             <div class="contact-label">Email us</div>
             <h2>Start a useful conversation.</h2>
             <p>Share a little about your goals, timeline, or challenge. We will get back to you with a thoughtful next step.</p>
-            <a class="email-link" href="mailto:admin@rrinfotechservices.com">admin@rrinfotechservices.com ↗</a>
+            <a class="email-link" href="mailto:admin@rrinotechservices.com">admin@rrinotechservices.com ↗</a>
+            <p class="address"><strong>Address</strong>943 Gaslight Way<br>Mississauga, ON - L5W 1A4</p>
         </section>
         <aside class="note">
             <strong>Bring the messy version.</strong>
